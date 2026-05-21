@@ -71,4 +71,18 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
+# Moving Object Detector
 
+A real-time moving object detection system built with Python and OpenCV.
+
+## What it does
+- Detects moving objects in video using background subtraction
+- Highlights motion regions frame by frame
+
+## Technologies Used
+- Python
+- OpenCV
+
+## How to run
+1. Install OpenCV: pip install opencv-python
+2. Run: python your_filename.py
