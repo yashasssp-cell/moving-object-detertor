@@ -1,0 +1,51 @@
+**Project: Goenka Smart Shuttle**
+
+**Description:**
+Developed a web-based smart shuttle booking platform using **Google AI Studio** to simplify ride booking and transportation management. The system includes an interactive dashboard where users can book rides, view available shuttle details, manage schedules, and access transportation information through a user-friendly interface. The project focuses on improving convenience, reducing manual effort, and providing a seamless booking experience.
+
+**Short resume version:**
+
+**Goenka Smart Shuttle**
+Created a web-based shuttle booking system with a dashboard for ride booking, schedule management, and transport information, designed to improve user experience and streamline transportation services.
+
+For GitHub README:
+
+**Features:**
+
+* User ride booking system
+* Interactive dashboard
+* Shuttle schedule management
+* User-friendly interface
+* Real-time transportation information
+* Smart transportation solution
+
+
+Technologies Used
+
+Frontend
+
+HTML5
+CSS3
+JavaScript
+
+UI / Dashboard Design
+
+Responsive web design
+Dashboard interface components
+
+AI Tools
+
+Google AI Studio
+AI prompt integration / generative AI features (if used in your project)
+
+Backend (include only if you actually used one)
+
+Node.js / Python / Firebase (choose the one you used)
+Database: MySQL / Firebase / MongoDB (choose if used)
+
+Project Features
+
+Ride booking system
+User dashboard
+Schedule management
+Smart shuttle information display
